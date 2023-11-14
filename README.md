@@ -93,3 +93,8 @@ Apuntes y otras cosillas de un curso de Electromagnetismo II
 - [Problema 1](./e01/e01-01.md)
 - [Problema 2](./e01/e01-02.md)
 - [Problema 3](./e01/e01-03.md)
+
+### Examen 2
+
+- [Problema 1](./e02/e02-01.md)
+- [Problema 2](./e02/e02-02.md)
