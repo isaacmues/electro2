@@ -86,6 +86,13 @@ Apuntes y otras cosillas de un curso de Electromagnetismo II
 - [Problema 3](./t11/t11-03.md)
 - [Problema 4](./t11/t11-04.md)
 
+### Tarea 12
+
+- [Problema 1](./t12/t12-01.md)
+- [Problema 2](./t12/t12-02.md)
+- [Problema 3](./t12/t12-03.md)
+- [Problema 4](./t12/t12-04.md)
+
 ## Exámenes
 
 ### Examen 1
